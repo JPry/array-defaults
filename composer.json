@@ -6,7 +6,9 @@
     "authors": [
         {
             "name": "Jeremy Pry",
-            "email": "jeremy.pry@gmail.com"
+            "email": "jeremy.pry@gmail.com",
+            "homepage": "http://jeremypry.com/",
+            "role": "Developer"
         }
     ],
     "autoload": {
